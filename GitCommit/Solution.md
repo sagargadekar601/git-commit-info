@@ -24,4 +24,4 @@
 
 - There are few console errors, I didn't get time to resolve those.
 - Code line numbering is not aligned to the actual line numbers in the code, it needs two different counters (one for old file other for updated file). I added only one counter due to time constraint. 
-- I haven't added code to get the title and description of the commit. This will require another server call from a client and also to another gitHub API. This is similar to the existing commit "diff" call I made in the application. I focused mainly on the files and the diff. Currently, whatever commit title and description it is showing is static text.
+
