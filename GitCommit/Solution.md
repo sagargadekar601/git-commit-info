@@ -18,7 +18,7 @@
 
 -   Keep both the service running and hit http://localhost:8080/repositories/:owner/:repository/commit/:commitSHA
     - Provide **Owner, repository and commitSHA** as input to the url
-    - For e.g.  **http://localhost:8080/repositories/vuejs/docs/commit/85d32ab23103640afdd010085409de6535d965db** [This e.g url will also work as is]
+    - For e.g.  **http://localhost:8080/repositories/vuejs/docs/commit/85d32ab23103640afdd010085409de6535d965db** [This e.g url will also work as is] [actual changes can be verified at https://github.com/vuejs/docs/commit/85d32ab23103640afdd010085409de6535d965db ]
 
 ## Anything that’s missing from the solution that I would add if I had more time.
 
